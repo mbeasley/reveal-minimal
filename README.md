@@ -1,4 +1,4 @@
-#reveal-minimal
+# reveal-minimal
 
 [Installation](#installation) | [Suggested Settings](#settings) | [Screenshots](#screenshots)
 
@@ -7,7 +7,7 @@ This is a minimal theme for reveal.js.  Most of the frills are removed, using a 
 
 
 <a id="installation"></a>
-###Installation
+### Installation
 To use with reveal.js, copy the `minimal.scss` file to `css/theme/source/` directory and run `grunt themes` to compile the css.
 
 Retrieve the [tomorrow.css](https://github.com/isagalaev/highlight.js/blob/master/src/styles/tomorrow.css) theme for highlight.js and move it to the `lib/css/` directory.
@@ -21,7 +21,7 @@ Finally, in your `index.html` file for your presentation, you will need to chang
 
 
 <a id="settings"></a>
-###Suggested Settings
+### Suggested Settings
 I recommend using the following settings for the cleanest experience:
 
     controls: false,
@@ -44,7 +44,7 @@ You'll then need to create a `slides\slides.md` file and spereate each slide wit
 
 
 <a id="screenshots"></a>
-###Screenshots
+### Screenshots
 
 Title Slide:
 
